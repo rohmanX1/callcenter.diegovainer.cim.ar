@@ -587,7 +587,7 @@ local function toggleWallhack()
         
         -- Update UI
         wallIndicator.BackgroundColor3 = Color3.fromRGB(255, 60, 60)
-        wallIndText.Text = "OF
+        wallIndText.Text = "OF"
 wallButton.BackgroundColor3 = Color3.fromRGB(35, 35, 50)
         
         if not flyActive then
